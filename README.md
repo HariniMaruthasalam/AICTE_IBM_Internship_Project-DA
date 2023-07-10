@@ -52,3 +52,14 @@ The Superstore dataset analysis project provides valuable insights into the supe
 # MODELLING
 
 ![black blue aesthetic minimalist bar chart graph](https://github.com/HariniMaruthasalam/AICTE_IBM_Internship_Project-DA/assets/114240304/4598101b-4723-4e31-909e-5905ed838c41)
+
+# RESOURCES:
+
+DATASET: https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
+NOTEBOOK: https://www.kaggle.com/code/harinuu/sample-superstore-analysis
+
+# SUPPORTER'S & MENTORS:
+1. Edunet Foundation mentor's
+
+## License
+This project is licensed under the [MIT License](LICENSE).
