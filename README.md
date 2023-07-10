@@ -48,3 +48,7 @@ Key steps in the Superstore dataset analysis project may include:
 9. Insights and Recommendations: Summarizing the key findings from the analysis and providing actionable recommendations for improving sales, profitability, and overall business performance.
 
 The Superstore dataset analysis project provides valuable insights into the superstore's operations, sales, and profitability. The findings and recommendations can be used to make informed business decisions, optimize resource allocation, improve customer satisfaction, and drive overall growth and success in the superstore industry.
+
+# MODELLING
+
+![black blue aesthetic minimalist bar chart graph](https://github.com/HariniMaruthasalam/AICTE_IBM_Internship_Project-DA/assets/114240304/4598101b-4723-4e31-909e-5905ed838c41)
