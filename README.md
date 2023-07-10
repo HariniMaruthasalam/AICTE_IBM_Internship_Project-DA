@@ -55,11 +55,11 @@ The Superstore dataset analysis project provides valuable insights into the supe
 
 # RESOURCES:
 
-DATASET: https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
-NOTEBOOK: https://www.kaggle.com/code/harinuu/sample-superstore-analysis
+1.DATASET: https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
+2. NOTEBOOK: https://www.kaggle.com/code/harinuu/sample-superstore-analysis
 
 # SUPPORTER'S & MENTORS:
 1. Edunet Foundation mentor's
 
-## License
+# LICENSE
 This project is licensed under the [MIT License](LICENSE).
