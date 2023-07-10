@@ -55,7 +55,7 @@ The Superstore dataset analysis project provides valuable insights into the supe
 
 # RESOURCES:
 
-1.DATASET: https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
+1. DATASET: https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
 2. NOTEBOOK: https://www.kaggle.com/code/harinuu/sample-superstore-analysis
 
 # SUPPORTER'S & MENTORS:
